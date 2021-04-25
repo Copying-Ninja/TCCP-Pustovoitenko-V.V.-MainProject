@@ -13,7 +13,7 @@ namespace TCCP_Pustovoitenko_V.V._MainProject
             int a = 4;
             double b = 2.66;
             Console.WriteLine("a + b = " + (a+b) );
-            Console.WriteLine("Goodbay world:(((");
+            Console.WriteLine("Goodbay world:((( + Зміни_1");
             Console.ReadKey();
         }
     }
